@@ -86,6 +86,15 @@
 
 
 
+## **Agregado 07/12/2018
+
+* Agregar Authy para ciertos procesos
+* Usuario podrá retirar ganancias
+  * Pedir cuenta bancaria o tarjeta de debito
+  * Se asignara una porcentaje X para el retiro de ganancias
+
+
+
 # Proceso que debería realizar un usuario común: 
 
 
